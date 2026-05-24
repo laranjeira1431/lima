@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 @font-face {
-  font-family: 'Aguarita Demo';
   src: url('AguaritaDemoEditada.woff2') format('truetype');
+  font-family: 'Aguarita Demo';
   font-weight: 400;
   font-style: normal;
   font-display: swap;
